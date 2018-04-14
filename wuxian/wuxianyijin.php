@@ -41,7 +41,7 @@
          if (c == '') {
          	c = 1;
          }
-         window.location.href='calendar2.php?area='+c;
+         window.location.href='wuxianyijin.php?area='+c;
          console.log(c);
          }
    </script>
