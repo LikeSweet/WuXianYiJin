@@ -69,3 +69,8 @@ function a(){
 	         xmlhttp.send("index=1");
 		}
 </code></pre>
+
+### 总结
+1.基本上理解了json的跨平台性。（rate文件将数组序列化为json后通过ajax传回来，然后进行反序列化为数组就可以用了）
+2.了解了Ajax的工作流程。
+3.初步接触了Highcharts图表库。
